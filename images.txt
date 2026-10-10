@@ -6,9 +6,5 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 python:alpine3.19
-k8s-gcr.kubesre.xyz
-k8s-gcr.m.daocloud.io
-gcr.m.daocloud.io
-ghcr.m.daocloud.io
-quay.1ms.run
-myifeng/registry.k8s.io_kube-controller-manager
+nvidia/cuda:12.1.1-runtime-ubuntu22.04
+openvinotoolkit/anomalib
